@@ -1,8 +1,10 @@
 '''
+
 This program performs simple calculations of digital to analog (DAC) samples based on parameters input at the top of the file. Samples are plotted with matplotlib and DAC codes are written to a text file.
 
 The waveform generated is a sinusoid.
 The DAC codes are in offset binary format.
+
 '''
 
 import math
